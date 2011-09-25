@@ -1,0 +1,12 @@
+LICENSE
+README
+ez_setup.py
+setup.py
+stresstest.py
+src/cloghandler.py
+src/portalocker.py
+src/ConcurrentLogHandler.egg-info/PKG-INFO
+src/ConcurrentLogHandler.egg-info/SOURCES.txt
+src/ConcurrentLogHandler.egg-info/dependency_links.txt
+src/ConcurrentLogHandler.egg-info/top_level.txt
+src/ConcurrentLogHandler.egg-info/zip-safe
